@@ -1,0 +1,13 @@
+open Windows PowerShell on behalf of the administrator
+
+enter this line of code: irm https://get.activated.win | iex
+
+wait for the download, then press these numbers one at a time: 3 1
+
+----------------------------------------------------------------------------
+
+откройте Windows PowerShell от имени администратора
+
+введите следующую строку кода: irm https://get.activated.win | iex
+
+дождитесь загрузки, затем поочередно введите следующие цифры: 3 1
